@@ -2,6 +2,7 @@
 
 # Assalamu Alaikum. Welcome to my GitHub Profile. 👋
 
+This is BM. Zahidul Islam, a full-stack web developer from Dhaka, Bangladesh.:bangladesh:
 <!--
 **Zahid-BM/zahid-BM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
