@@ -45,4 +45,4 @@ This is BM. Zahidul Islam, a Junior full-stack web developer from Dhaka, Banglad
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahid-bm&count_private=true&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/zahid-bm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-bm&layout=compact&theme=vision-friendly-dark)](https://github.com/zahid-bm/github-readme-stats)
