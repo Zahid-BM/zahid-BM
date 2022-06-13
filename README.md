@@ -1,4 +1,6 @@
-### Assalamu Alaikum. Welcome to my GitHub Profile. 👋
+![Cover image]("https://i.ibb.co/qnnnyR2/My-Developer-Cover-photo.png")
+
+# Assalamu Alaikum. Welcome to my GitHub Profile. 👋
 
 <!--
 **Zahid-BM/zahid-BM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
