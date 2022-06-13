@@ -1,4 +1,4 @@
-![Cover image]("https://i.ibb.co/qnnnyR2/My-Developer-Cover-photo.png")
+![Cover image](https://i.ibb.co/qnnnyR2/My-Developer-Cover-photo.png)
 
 # Assalamu Alaikum. Welcome to my GitHub Profile. 👋
 
