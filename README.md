@@ -16,13 +16,12 @@
 
 <h1>
   Assalamu Alaikum !
-  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/> -->
-  <img src="https://i.ibb.co/bXQ23qk/Black-belt-1.png" width="30px" height="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.ibb.co/bXQ23qk/Black-belt-1.png" width="600" height="300"/>
 </div>
 
 <hr/>
