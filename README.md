@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/yfRsrzz/Passport-size-new.jpg" width="300" height="300"/>
+  <img src="https://i.ibb.co/NV7kD0m/certificate.png" width="300" height="300"/>
 </div>
 
 <hr/>
