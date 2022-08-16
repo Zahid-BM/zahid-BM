@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/bXQ23qk/Black-belt-1.png" width="300" height="300"/>
+  <img src="https://mega.nz/file/DoNBnRgQ#0Rca2xjR7NVTvKInjOjok1Ezp1vLkbDTOXdTfFRdcHY" width="300" height="300"/>
 </div>
 
 <hr/>
