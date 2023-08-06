@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/NV7kD0m/certificate.png" width="600" />
+  <img src="https://i.ibb.co/NV7kD0m/certificate.png" style="width:600px;object-fit:contain;" />
 </div>
 
 <hr/>
