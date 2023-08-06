@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="/certificate.png" style="border-radius:20px" />
+  <img src="/certificate.png" />
 </div>
 
 <hr/>
