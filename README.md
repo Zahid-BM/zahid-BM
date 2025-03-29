@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="/certificate.png" />
+  <img src="/BM Zahidul Islam.png" />
 </div>
 
 <hr/>
