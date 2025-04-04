@@ -29,12 +29,20 @@
 
 ### :man_technologist: About Me
 
-This is BM. Zahidul Islam, a Junior full-stack web developer from Dhaka, Bangladesh <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png' width='20' />. I love to code and build websites/web applications with all the heart and dedication. I am very enthusiastic to learn web technologies and enrich my knowledge and skills. Honesty and hard working are my keys.
+**🚀 Junior Full-Stack Developer** | Dhaka, Bangladesh  
+**🔧 Tech Stack:** React.js • Next.js • Node.js • Express • MongoDB • TypeScript • Docker  
 
-- :walking_man: I am looking for a Job Position at national or international organization  where I can learn and enrich my knowledge, skills and bring the fullest success & prosperity for the organization and mine as well.
-- :open_book: During my free time I read the documentation to understand even more better the web development technologies.
+Passionate about building scalable web applications with clean code and modern architectures. Currently mastering Data Structures & Algorithms to transition into Software Engineering roles.
 
-- :man_office_worker: I am self-motivated and can cope with all tradition and environment.
+**💡 Core Strengths:**  
+✔ Problem-solving with JavaScript/TypeScript  
+✔ RESTful API & Database Design  
+✔ Agile Development & CI/CD Pipelines  
+
+**🌱 Currently Learning:**  
+- Advanced System Design  
+- Unit Testing (Jest/Vitest)  
+- AWS Cloud Services
 
 ## :hammer_and_wrench: Tools and technologies I use to code
 
