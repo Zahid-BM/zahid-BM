@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="/BM Zahidul Islam-1.png" />
+  <img src="/github banner.png" />
 </div>
 
 <hr/>
