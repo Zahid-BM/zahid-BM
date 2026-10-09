@@ -51,7 +51,7 @@ In 2020, I turned that pain into code — as a self-taught full-stack developer.
 My 3 Identities:
 
 1. As Founder & CEO:
-Leading product vision, team, halal compliance, and international standards. Building an ecosystem of platforms for this world and the Hereafter. Currently in pre-launch & hiring phase (as you saw in issue Before Hiring & Launch - Must Enable).
+Leading product vision, team, halal compliance, and international standards. Building an ecosystem of platforms for this world and the Hereafter. Currently in pre-launch & hiring phase.
 
 2. As AI Engineer (Transitioning - 2026 Focus):
 My recent blog "The Smartest Investment of 2026: Why a Powerful PC and Local AI System is Essential" explains my vision — Sovereign AI for Ummah. Building Local AI Systems with Ollama, RAG pipelines, LLM Agents, Vector DBs (Pinecone, Qdrant, Weaviate, ChromaDB) for SME automation. Data as Amanah — never sent to third party.
@@ -175,7 +175,7 @@ Clean Architecture • SOLID Principles • System Design • Agile & Scrum • 
 🔒 Current Status - Why TypeScript/Python Not Showing in Chart?
 
     Important - Accurate Explanation:
-    My organization Muslim-Solutions is currently private (pre-launch phase - issue Before Hiring & Launch - Must Enable is open). I use TypeScript, Python (FastAPI + LLM), Next.js heavily in that private org.
+    My organization Muslim-Solutions is currently private (pre-launch phase). I use TypeScript, Python (FastAPI + LLM), Next.js heavily in that private org.
 
     GitHub's Top Languages Card (username=zahid-bm) only counts public personal repos. Since my private org languages are private, GitHub shows only JavaScript/HTML/CSS from this public profile repo itself. That's why your screenshot showed 64% JavaScript.
 
@@ -185,13 +185,11 @@ Clean Architecture • SOLID Principles • System Design • Agile & Scrum • 
 
 What I'm actively building now in private org:
 
-    Main website: muslim-solutions-website (JavaScript, Next.js) - 39 commits in Oct
+    Main website: muslim-solutions-website (JavaScript, Next.js)
     Upcoming platforms with TypeScript, Python, LLM, RAG, Vector DB
-    Security hardening, 2FA, branch protection, GitLab backup mirror (as we setup earlier)
+    Security hardening, 2FA, branch protection, GitLab backup mirror
 
-📊 GitHub Analytics - Fixed, 100% Dynamic, No Error
-
-    Fixed by removing count_private=true & include_all_commits=true — now uses only public data, so no "Something went wrong" error. Fully dynamic, auto-updates.
+📊 GitHub Analytics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=zahid-bm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="Stats" />
